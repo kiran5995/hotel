@@ -19,4 +19,7 @@ b.withdraw(5000)
 a=Bank.new("sai",1000)
 a.deposit(500)
 a.withdraw(200)
+c=Bank.new("karthik",1000)
+c.deposit(500)
+c.withdraw(200)
 
